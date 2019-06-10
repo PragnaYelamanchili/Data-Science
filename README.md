@@ -1,2 +1,2 @@
-# Data-Science
+# Text Analytics
 Related to Machine Learning Algorithms
